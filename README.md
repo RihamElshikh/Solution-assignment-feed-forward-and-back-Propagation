@@ -1,1 +1,1 @@
-# Solution-assignment-feed-forward-and-back-Propagation
+# Solution-assignment-feedforward-and-backPropagation
